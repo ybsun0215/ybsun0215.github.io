@@ -21,7 +21,7 @@ I am very fortunate to be advised by Prof. Qing Huang of JXSE Lab from [School o
     
   <li> <b> [Nov 2023]</b> I attended <b>Workshop on 'AI governance and standards: comparative approaches’</b> at Monash University.</li>
     
-  <li> <b> [Sep 2023]</b> Our paper API Entity and Relation Joint Extraction from Text via Dynamic Prompt-tuned Language Model" has been accepted by <b>TOSEM</b>! <a href="https://dl.acm.org/doi/10.1145/3607188"></a></li>
+  <li> <b> [Sep 2023]</b> Our paper API Entity and Relation Joint Extraction from Text via Dynamic Prompt-tuned Language Model" has been accepted by <b>TOSEM <a href="https://dl.acm.org/doi/10.1145/3607188"></a> </b>! </li>
   
 </ul>  
 
