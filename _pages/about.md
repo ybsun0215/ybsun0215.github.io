@@ -17,7 +17,7 @@ I am very fortunate to be advised by Prof. Qing Huang of JXSE Lab from [School o
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b> [Dec 2023]</b> Our paper "Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness" is now available on <a href="https://arxiv.org/abs/2312.05772"> arXiv</a>.</li>
+  <li> <b> [Dec 2023]</b> Our paper "Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference" is now available on <a href="https://arxiv.org/pdf/2311.01266.pdf"> arXiv</a>.</li>
     
   <li> <b> [Nov 2023]</b> I attended <b>Workshop on 'AI governance and standards: comparative approaches’</b> at Monash University.</li>
     
