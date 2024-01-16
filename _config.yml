@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China"
+locale                   : #"China"
 title                    : "Personal Description"
 title_separator          : "-"
 name                     : &name "Yanbang Sun"
@@ -81,13 +81,13 @@ analytics:
 author:
   name             : "Yanbang Sun"
   avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : # "Third year master's student"
   location         : "Nanchang"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   google_plus      :
-  twitter          : # "replacethistwitterhandle"
+  twitter          :  "https://twitter.com/cody40428660"
 
 # Reading Files
 include:
