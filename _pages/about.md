@@ -23,5 +23,3 @@ I am very fortunate to be advised by Prof. Qing Huang of JXSE Lab from [School o
   
 </ul>  
 
-#<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=M_H6ImK1gwcN-H51BmQwXEz9yt4TivhZi-N9v5sFWIk&cl=ffffff&w=a"></script>
-
