@@ -17,11 +17,9 @@ I am very fortunate to be advised by Prof. Qing Huang of JXSE Lab from [School o
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b> [Dec 2023]</b> Our paper "Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference" is now available on <a href="https://arxiv.org/pdf/2311.01266.pdf"> arXiv</a>.</li>
+  <li> <b> [Nov. 2023]</b> Our paper "Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference" is now available on <a href="https://arxiv.org/pdf/2311.01266.pdf"> arXiv</a>.</li>
     
-  <li> <b> [Nov 2023]</b> I attended <b>Workshop on 'AI governance and standards: comparative approaches’</b> at Monash University.</li>
-    
-  <li> <b> [Sep 2023]</b> Our paper API Entity and Relation Joint Extraction from Text via Dynamic Prompt-tuned Language Model" has been accepted by <a href="https://dl.acm.org/doi/10.1145/3607188">TOSEM</a> </li>
+  <li> <b> [Apr. 2023]</b> Our paper API Entity and Relation Joint Extraction from Text via Dynamic Prompt-tuned Language Model" has been accepted by <a href="https://dl.acm.org/doi/10.1145/3607188">TOSEM</a> </li>
   
 </ul>  
 
