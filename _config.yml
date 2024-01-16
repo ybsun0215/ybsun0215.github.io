@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : #"Welcome to my homepage!"
+title                    : "Welcome to my homepage!"
 title_separator          : "-"
 name                     : &name "Yanbang Sun"
 description              : &description "personal description"
