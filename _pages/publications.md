@@ -36,10 +36,10 @@ table.imgtable, table.imgtable td{
   <tr>
     <td align="left">
       <p>
-        SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications<br>
-        <b>Shidong Pan</b>, Zhen Tao, Thong Hoang, Dawen Zhang, Zhenchang Xing, Xiwei Xu, Mark Staples, David Lo<br>
+        Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference<br>
+        Qing Huang, <b>Yanbang Sun</b>, Zhenchang Xing, Yuanlong Cao, Jieshan Chen, Xiwei Xu, Huan Jin, Jiaxing Lu<br>
         Pre-print
-        [<a href="https://arxiv.org/abs/2307.01691">Paper</a>]
+        [<a href="https://arxiv.org/pdf/2311.01266.pdf">Paper</a>]
       </p>
     </td>
   </tr>
