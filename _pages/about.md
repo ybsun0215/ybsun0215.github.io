@@ -9,7 +9,7 @@ redirect_from:
 ---
 # <i class="fa fa-book fa-fw"></i>  About #
 
-I'm a third year master student. My research interest includes SE, Knowledge Graph, and LLM.
+I am a third-year graduate student in computer science. My research interest includes SE, Knowledge Graph, and LLM.
 
 I am very fortunate to be conducting my research under the joint supervision of Professor Qing Huang of the [JXSE Lab](https://jxselab.com/) and Professor Zhenchang Xing of CSIRO Data61.
 
