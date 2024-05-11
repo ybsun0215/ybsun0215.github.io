@@ -11,7 +11,7 @@ redirect_from:
 
 I am a third-year graduate student in computer science. My research interest includes SE, Knowledge Graph, and LLM.
 
-I am very fortunate to be conducting my research under the joint supervision of Professor Qing Huang of the [JXSE Lab](https://jxselab.com/) and Professor Zhenchang Xing of CSIRO Data61.
+I am very fortunate to be conducting my research under the joint supervision of Professor Qing Huang of the [JXSE Lab](https://www.jxselab.com/) and Professor [Zhenchang Xing](https://scholar.google.com/citations?user=0vCxuH4AAAAJ&hl=en&oi=ao) of CSIRO Data61.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
