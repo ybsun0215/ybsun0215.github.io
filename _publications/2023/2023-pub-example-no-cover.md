@@ -8,10 +8,9 @@ pub:            "ACM transactions on software engineering and methodology (TOSEM
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2023"
 
-# cover:          /assets/images/covers/cover3.jpg
 authors:
   - Qing Huang
-  - <b>Yanbang Sun</b>
+  - Yanbang Sun
   - Zhenchang Xing
   - Min Yu
   - Xiwei Xu
