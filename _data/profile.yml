@@ -30,18 +30,18 @@ portrait_url: /assets/images/photos/img2.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-education:
-- name: Tianjin University
-  position: >- 
-    Software Engineering <br/>
-    Ph.D. Student
-  date: Sep. 2024 - 2028 (expected)
-- name: Jiangxi Normal University
-  position: M.S. in Computer Science and Technology
-  date: Sep. 2021 - Jul. 2024
-- name: Harbin Normal University
-  position: B.Eng. in Internet of Things Engineering
-  date: Sep. 2017 - Jul. 2021
+education: []
+# - name: Tianjin University
+#   position: >- 
+#     Software Engineering <br/>
+#     Ph.D. Student
+#   date: Sep. 2024 - 2028 (expected)
+# - name: Jiangxi Normal University
+#   position: M.S. in Computer Science and Technology
+#   date: Sep. 2021 - Jul. 2024
+# - name: Harbin Normal University
+#   position: B.Eng. in Internet of Things Engineering
+#   date: Sep. 2017 - Jul. 2021
 
 experience: []
 # - name: Peking University
