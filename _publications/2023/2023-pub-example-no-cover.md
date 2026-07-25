@@ -11,7 +11,7 @@ pub_date:       "2023"
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Qing Huang
-  - Yanbang Sun
+  - <b>Yanbang Sun</b>
   - Zhenchang Xing
   - Min Yu
   - Xiwei Xu
