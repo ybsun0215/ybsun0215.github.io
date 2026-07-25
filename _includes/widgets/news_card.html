@@ -8,7 +8,15 @@
             <div class="media-body">
                 <div class="my-1 d-flex">
                     <div>{{ item.title }}</div>
-                    <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
+                    <div class="ml-auto mt-auto text-muted no-break">
+                        <i>
+                        {% if item.show_day == false %}
+                            {{ item.date | date: "%b" }}
+                        {% else %}
+                            {{ item.date | date: "%b %d" }}
+                        {% endif %}
+                        </i>
+                    </div>
                 </div>
             </div>
         </div>
