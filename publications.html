@@ -3,11 +3,9 @@ layout: default
 title : Publications
 navbar_title: Publications
 body_attr: >-
-  data-spy="scroll" data-target="#navbar-year" data-offset="100"
+  data-spy="scroll" data-target="#navbar-year" data-offset="150"
 ---
-
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
-
 <div class="row">
     <div class="col-12 col-lg-10">
         {% for year in pubs_by_year %}
@@ -20,7 +18,6 @@ body_attr: >-
         </div>
         {% endfor %}
     </div>
-
     <div class="col-2 d-none d-lg-block">
         <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
             {% for year in pubs_by_year %}
@@ -28,5 +25,13 @@ body_attr: >-
             {% endfor %}
         </div>
     </div>
-
 </div>
+
+<script>
+$(function () {
+    $('#navbar-year a.nav-link').on('click', function () {
+        $('#navbar-year a.nav-link').removeClass('active');
+        $(this).addClass('active');
+    });
+});
+</script>
