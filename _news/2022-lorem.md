@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+title: One paper was accepted by ICSE2026
 date: 2025-11
 ---
