@@ -1,0 +1,18 @@
+---
+title:          "IntOAgent: A Practical Framework for Automated Detection and Triggering of Integer Overflow Vulnerabilities"
+date:           2026-6-3 00:01:00 +0800
+selected:       true
+pub:            "41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)"
+pub_date:       "2026"
+authors:
+  - Yuelin Wang
+  - Jiongchi Yu
+  - Xiaofei Xie
+  - Yaohui Sun
+  - Tianyu Shi
+  - Yanbang Sun
+  - Qiang Hu
+  - Junjie Wang
+links:
+  Paper: to appear
+---
