@@ -13,6 +13,4 @@ authors:
   - Qing Huang
   - Xiaohong Li
   - Junjie Wang
-links:
-  Paper: https://dl.acm.org/doi/epdf/10.1145/3774904.3792541
 ---
