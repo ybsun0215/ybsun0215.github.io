@@ -21,11 +21,10 @@ email: "ybsun@tju.edu.cn"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Welcome! I am currently a third-year Ph.D. student at Tianjin University,
-    advised by Professor Xiaohong Li and Professor Junjie Wang. My research
-    interests primarily focus on cybersecurity, with the goal of improving
-    the security and reliability of critical software infrastructures and
-    protecting users from emerging security threats.
+    Welcome! I am currently a third-year Ph.D. student at Tianjin University, advised by Professor Xiaohong Li and Professor Junjie Wang.
+  </p>
+    <p>
+    My research interests primarily focus on cybersecurity, with the goal of improving the security and reliability of critical software infrastructures and protecting users from emerging security threats.
   </p>
 portrait_url: /assets/images/photos/img1.jpg
 
