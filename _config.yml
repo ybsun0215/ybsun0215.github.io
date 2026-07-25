@@ -35,6 +35,11 @@ plugins:
 # timezone: Asia/Shanghai
 
 collections:
-  - About me
-  - Publications
-  # - posts
+  publications:
+    output: true
+    permalink: /publications/:path/
+  news:
+    output: false
+  showcase:
+    output: false
+    permalink: /showcase/:path/
