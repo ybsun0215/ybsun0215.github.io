@@ -2,7 +2,7 @@
 title:          "BACHunter: Detecting Broken Access Control Vulnerabilities in Intelligent Connected Vehicles"
 date:           2026-4-3 00:01:00 +0800
 selected:       true
-pub:            "47th IEEE Symposium on Security and Privacy (SP'2026)"
+pub:            "47th IEEE Symposium on Security and Privacy (S&P 2026)"
 pub_date:       "2026"
 authors:
   - Yanbang Sun
