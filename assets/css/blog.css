@@ -15,7 +15,7 @@
 .blog-content h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .blog-content h1 {
@@ -171,7 +171,7 @@
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-weight: 600;
+    font-weight: 700;
 }
 
 /* Blog layout — content preserves original width, TOC uses remaining space */
