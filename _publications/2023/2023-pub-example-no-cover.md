@@ -6,7 +6,7 @@ pub:            "ACM transactions on software engineering and methodology (TOSEM
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2023"
+pub_date:       ""
 
 authors:
   - Qing Huang

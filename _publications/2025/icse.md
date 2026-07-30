@@ -4,7 +4,7 @@ date:           2025-12-3 00:01:00 +0800
 selected:       true
 pub:            "48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)"
 pub_last:       '<span class="badge badge-pill badge-publication badge-danger">ACM SIGSOFT Distinguished Paper Award</span>'
-pub_date:       "2026"
+pub_date:       ""
 authors:
   - Yuelin Wang
   - Yuqiao Ning
