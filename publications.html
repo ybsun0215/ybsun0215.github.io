@@ -26,30 +26,24 @@ navbar_title: Publications
 </div>
 
 <script>
-$(function () {
-    const $yearLinks = $('#navbar-year a.nav-link');
+(() => {
+    const yearLinks = document.querySelectorAll('#navbar-year a.nav-link');
 
-    function setActiveYear($link) {
-        $yearLinks.removeClass('active');
-        $link.addClass('active');
+    function setActiveYear(link) {
+        yearLinks.forEach((yearLink) => yearLink.classList.remove('active'));
+        link.classList.add('active');
     }
 
     function setActiveYearFromHash() {
-        const hash = window.location.hash;
-        const $matchingLink = $yearLinks.filter(function () {
-            return this.hash === hash;
-        });
+        const matchingLink = Array.from(yearLinks).find((yearLink) => yearLink.hash === window.location.hash);
 
-        if ($matchingLink.length) {
-            setActiveYear($matchingLink);
+        if (matchingLink) {
+            setActiveYear(matchingLink);
         }
     }
 
-    $yearLinks.on('click', function () {
-        setActiveYear($(this));
-    });
-
-    $(window).on('hashchange', setActiveYearFromHash);
+    yearLinks.forEach((yearLink) => yearLink.addEventListener('click', () => setActiveYear(yearLink)));
+    window.addEventListener('hashchange', setActiveYearFromHash);
     setActiveYearFromHash();
-});
+})();
 </script>
