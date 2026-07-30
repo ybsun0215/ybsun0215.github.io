@@ -2,8 +2,6 @@
 layout: default
 title : Publications
 navbar_title: Publications
-body_attr: >-
-  data-spy="scroll" data-target="#navbar-year" data-offset="150"
 ---
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 <div class="row">
@@ -29,9 +27,29 @@ body_attr: >-
 
 <script>
 $(function () {
-    $('#navbar-year a.nav-link').on('click', function () {
-        $('#navbar-year a.nav-link').removeClass('active');
-        $(this).addClass('active');
+    const $yearLinks = $('#navbar-year a.nav-link');
+
+    function setActiveYear($link) {
+        $yearLinks.removeClass('active');
+        $link.addClass('active');
+    }
+
+    function setActiveYearFromHash() {
+        const hash = window.location.hash;
+        const $matchingLink = $yearLinks.filter(function () {
+            return this.hash === hash;
+        });
+
+        if ($matchingLink.length) {
+            setActiveYear($matchingLink);
+        }
+    }
+
+    $yearLinks.on('click', function () {
+        setActiveYear($(this));
     });
+
+    $(window).on('hashchange', setActiveYearFromHash);
+    setActiveYearFromHash();
 });
 </script>

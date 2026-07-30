@@ -3,6 +3,7 @@ title:          "BACHunter: Detecting Broken Access Control Vulnerabilities in I
 date:           2026-4-3 00:01:00 +0800
 selected:       true
 pub:            "47th IEEE Symposium on Security and Privacy (S&P 2026)"
+pub_last:       '<span class="badge badge-pill badge-publication badge-warning">CCF-A</span>'
 pub_date:       ""
 authors:
   - Yanbang Sun
