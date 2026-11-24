@@ -17,8 +17,3 @@
 :root {
     --font-site: "EB Garamond", Georgia, "Times New Roman", serif;
 }
-
-.text-profile-bio p {
-    font-size: 110%;
-    line-height: 1.7rem;
-}
